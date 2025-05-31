@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+biopython
+dna_features_viewer
+scikit-bio
+altair
+bokeh
+pyvis
+joblib
+tqdm
+psutil
+scikit-learn
