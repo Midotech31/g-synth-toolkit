@@ -3019,7 +3019,7 @@ def render_reverse_complement_tab():
                     fasta_display += f"# 5' -> 3'\n"
                 fasta_display += f"{rev_comp_seq}\n"
                 
-                st.markdown("```
+                st.markdown("```")
                 st.markdown(fasta_display)
                 st.markdown("```")
             
